@@ -1,0 +1,480 @@
+@import url('https://themes.googleusercontent.com/fonts/css?kit=fpjTOVmNbO4Lz34iLyptLTi9jKYd1gJzj5O2gWsEpXoyck2WCYPEMNySjZN0CHed_kmCvy597kDopqFAXvpeaA');
+
+ol {
+    margin: 0;
+    padding: 0
+}
+
+table td,
+table th {
+    padding: 0
+}
+
+.c9 {
+    -webkit-text-decoration-skip: none;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: underline;
+    vertical-align: baseline;
+    text-decoration-skip-ink: none;
+    font-size: 12pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c18 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: right;
+    height: 11pt
+}
+
+.c2 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 20pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c20 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: justify;
+    height: 11pt
+}
+
+.c10 {
+    margin-left: -42.5pt;
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c25 {
+    margin-left: 21.3pt;
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c31 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c6 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 9pt;
+    font-family: "Calibri";
+    font-style: normal
+}
+
+.c13 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c7 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.c3 {
+    padding-top: 0pt;
+    padding-bottom: 1pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: center;
+    margin-right: -0.1pt
+}
+
+.c5 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Calibri";
+    font-style: normal
+}
+
+.c27 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.c37 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 18pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c12 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c8 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 12pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c1 {
+    -webkit-text-decoration-skip: none;
+    color: #0000ff;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    font-size: 9pt;
+    font-family: "Calibri"
+}
+
+.c24 {
+    margin-left: 28.4pt;
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: right
+}
+
+.c26 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 12pt;
+    font-family: "Calibri";
+    font-style: italic
+}
+
+.c17 {
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+    height: 11pt
+}
+
+.c32 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Arial";
+    font-style: normal
+}
+
+.c23 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c28 {
+    padding-top: 0pt;
+    padding-bottom: 4pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+.c41 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.c33 {
+    padding-top: 0pt;
+    padding-bottom: 10pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.c4 {
+    -webkit-text-decoration-skip: none;
+    color: #0000ff;
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    font-family: "Calibri"
+}
+
+.c38 {
+    color: #000000;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.c30 {
+    font-size: 9pt;
+    font-family: "Calibri";
+    color: #0000ff;
+    font-weight: 700
+}
+
+.c16 {
+    font-size: 10.5pt;
+    font-family: "Arial";
+    font-weight: 700
+}
+
+.c11 {
+    background-color: #ffffff;
+    max-width: 509.9pt;
+    padding: 28.4pt 42.5pt 28.4pt 42.5pt
+}
+
+.c22 {
+    font-size: 12pt;
+    font-family: "Arial";
+    font-weight: 400
+}
+
+.c14 {
+    font-size: 9pt;
+    font-family: "Arial";
+    font-weight: 700
+}
+
+.c15 {
+    font-size: 12pt;
+    font-family: "Times New Roman";
+    font-weight: 400
+}
+
+.c0 {
+    font-size: 12pt;
+    font-family: "Times New Roman";
+    font-weight: 700
+}
+
+.c19 {
+    font-size: 12pt;
+    font-family: "Arial";
+    font-weight: 700
+}
+
+.c36 {
+    margin-left: 56.7pt;
+    margin-right: 85pt
+}
+
+.c29 {
+    color: inherit;
+    text-decoration: inherit
+}
+
+.c35 {
+    font-weight: 700;
+    font-family: "Times New Roman"
+}
+
+.c39 {
+    margin-left: 28.4pt;
+    margin-right: 297.6pt
+}
+
+.c40 {
+    font-weight: 700;
+    font-family: "Calibri"
+}
+
+.c34 {
+    text-indent: -0.1pt
+}
+
+.c21 {
+    height: 11pt
+}
+
+.title {
+    padding-top: 0pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 24pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.subtitle {
+    padding-top: 0pt;
+    color: #000000;
+    font-size: 12pt;
+    padding-bottom: 12pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+li {
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Calibri"
+}
+
+p {
+    margin: 0;
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Calibri"
+}
+
+h1 {
+    padding-top: 16pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 14pt;
+    padding-bottom: 2pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+h2 {
+    padding-top: 6pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 14pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+h3 {
+    padding-top: 6pt;
+    color: #000000;
+    font-size: 12pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+h4 {
+    padding-top: 6pt;
+    color: #000000;
+    font-size: 12pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    font-style: italic;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+h5 {
+    padding-top: 6pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 11pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+h6 {
+    padding-top: 6pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 11pt;
+    padding-bottom: 0pt;
+    font-family: "Cambria";
+    line-height: 1.0;
+    page-break-after: avoid;
+    font-style: italic;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}

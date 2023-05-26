@@ -1,0 +1,209 @@
+body{
+    background-color: #F5F8FA !important;
+}
+.container-full-width{
+    max-width: 100% !important;
+}
+.container-full-screen{
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.table-full-width{
+    width: 100% !important;
+}
+.footer-bg-color{
+    background-color: white !important;
+}
+.header-bg-color, .aside-logo-bg-color{
+    background-color: #1A2B4B !important;
+}
+
+.toolbar-main-title-color, .toolbar-second-title-color{
+    color: white !important;
+}
+
+.toolbar-home-title-color{
+    color: #A1A5B7 !important;
+}
+
+.aside-menu-all{
+    box-shadow: none !important;
+}
+
+.aside-menu-container{
+    padding-top: 30px !important;
+    padding-left: 20px !important;
+}
+
+.aside-menu-items-box{
+    margin-top: 0 !important;
+    background-color: white !important;
+    height: auto !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.action-buttons{
+    text-align: right !important;
+    padding-right: 5px !important;
+}
+
+/* Loader */
+.lds-ring {
+    display: inline-block;
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    left: 50%;
+    top: 50%;
+    z-index: 9999;
+    visibility: hidden;
+}
+.lds-ring div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border: 8px solid #1A2B4B;
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: #1A2B4B transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+/* export buttons */
+.dt-export-btn:hover{
+    transition: color 0.2s ease, background-color 0.2s ease;
+    background-color: #F5F8FA !important;
+    color: #009EF7;
+}
+
+/* ajax modal */
+.ajax-modal-body{
+    height: 75vh !important;
+}
+
+.ajax-modal-scroll{
+    max-height: 70vh !important;
+}
+
+.data-table-search{
+    padding: 0.4rem 1rem 0.4rem 3.5rem !important;
+}
+
+.toggle-col-menu-item{
+    border-radius: 0!important;
+}
+
+.toggle-col-menu-item:hover{
+    transition: color 0.2s ease, background-color 0.2s ease;
+    background-color: #F5F8FA !important;
+    color: #009EF7;
+}
+
+.toggle-col-item-active{
+    background-color: #F5F8FA;
+}
+
+.toggle-col-item-inactive{
+    background-color: white;
+}
+
+.aside-hover-wrapper{
+    transition: padding-left 0.3s ease;
+    padding-left: 265px !important;
+}
+
+.aside-hover-header{
+    left: 265px !important;
+    transition: left 0.3s ease;
+}
+
+.aside-hover-toolbar{
+    left: 265px !important;
+    transition: left 0.3s ease;
+}
+
+/* active row */
+.dt-active-row{
+    background-color: rgba(245, 248, 250, 0.75);
+}
+
+.group-actn-menu-btn:hover{
+    transition: color 0.2s ease, background-color 0.2s ease;
+    background-color: #F5F8FA !important;
+    color: #009EF7;
+}
+
+/* modal */
+.custom-modal-header{
+    padding-top: 1.25rem !important;
+    padding-bottom: 0.25rem !important;
+}
+
+/* forms */
+.custom-form-control{
+    border: 1px solid #c2cad8;
+    padding: 6px 12px;
+}
+
+.custom-form-control:focus{
+    border-color: #93a1bb;
+}
+
+.form-section-title {
+    padding-bottom: 5px !important;
+    border-bottom: 1px solid #e7ecf1 !important;
+    margin-bottom: 1.25rem;
+}
+
+.fv-label-valid{
+    color: #27a4b0;
+}
+.fv-label-invalid{
+    color: #F1416C;
+}
+
+.custom-tagify-group-tag{
+    background: none !important;
+}
+
+/* datatable pagination*/
+.paginate_input{
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-radius: 0.475rem;
+    width: 40px;
+    text-align: center;
+}
+.paginate_input:focus{
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+.paginate_input:focus-visible{
+    outline: 0 !important;
+}
+
+..page-item{
+    margin-right: auto !important;
+}

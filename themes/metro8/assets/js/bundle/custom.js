@@ -1,0 +1,9 @@
+$(function(){
+ $('#kt_aside').hover(function(){
+    $('#kt_header').addClass('aside-hover-header');
+    $('#kt_wrapper').addClass('aside-hover-wrapper');
+ },function(){
+    $('#kt_header').removeClass('aside-hover-header');
+    $('#kt_wrapper').removeClass('aside-hover-wrapper');
+ });
+});
